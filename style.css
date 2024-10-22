@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ms{
+    background-color: black;
+   
+    padding: 3rem 1rem;
+}
+
+.btn:hover{
+    background-color:black;
+    color: rgb(7, 206, 251);   
+}
+li{
+    list-style: none;
+}
+.colour{
+    color: gray;
+}
+
+
+
+
